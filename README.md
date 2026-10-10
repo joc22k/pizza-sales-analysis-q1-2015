@@ -1,5 +1,6 @@
 #  Pizza Sales Analysis — Q1 2015
 Python and Pandas analysis of pizza sales, revenue trends, and product performance in Q1 2015. 
+[link to dataset](https://mavenanalytics.io/data-playground/pizza-place-sales)
 
 **A data analytics project exploring sales performance, product preferences, revenue trends, and customer purchasing patterns during the first quarter of 2015.**
 
